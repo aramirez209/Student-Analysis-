@@ -11,4 +11,4 @@ Contributing: Analya Ramirez
 
 License: This project is licensed under the MIT License
 
-Credits: Special thanks to Kaggle.com for providing the us_retail_sales.csv dataset for this model.
+Credits: Special thanks to Kaggle.com for providing the student-mat.csv dataset for this model.
